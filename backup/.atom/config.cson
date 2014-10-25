@@ -1,16 +1,34 @@
-'global':
-  'editor':
-    'fontSize': 13
-    'invisibles': {}
-  'exception-reporting':
-    'userId': '04c5b6b2-98c6-fff6-60ce-176ceeea7331'
-  'welcome':
-    'showOnStartup': false
-  'metrics':
-    'userId': '6888e6e4f9eb75e58698c5fa67495be4c4a4cac7'
-  'autosave':
-    'enabled': true
-  'tree-view':
-    'hideIgnoredNames': true
-    'hideVcsIgnoredFiles': true
-  'core': {}
+'exception-reporting':
+  'userId': '582cd6fd-b972-1e23-53f8-a15f9568a166'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '5cc24f1097273bdf6143f2121a05e2e69aec86f6'
+'editor':
+  'invisibles': {}
+  'fontSize': 14
+'core':
+  'themes': [
+    'seti-ui'
+    'seti-syntax'
+  ]
+  'projectHome': '/Users/tistone13/workspace'
+  'ignoredNames': [
+    '.git'
+    'target'
+    '.DS_Store'
+    '.idea'
+  ]
+  'disabledPackages': [
+    'language-php'
+    'metrics'
+  ]
+'tree-view':
+  'hideIgnoredNames': true
+  'hideVcsIgnoredFiles': true
+'linter-rust':
+  'Executable path': '/usr/local/bin/cargo'
+'autosave':
+  'enabled': true
+'autocomplete-plus':
+  'enableAutoActivation': false
