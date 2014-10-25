@@ -1,0 +1,16 @@
+'global':
+  'editor':
+    'fontSize': 13
+    'invisibles': {}
+  'exception-reporting':
+    'userId': '04c5b6b2-98c6-fff6-60ce-176ceeea7331'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': '6888e6e4f9eb75e58698c5fa67495be4c4a4cac7'
+  'autosave':
+    'enabled': true
+  'tree-view':
+    'hideIgnoredNames': true
+    'hideVcsIgnoredFiles': true
+  'core': {}
