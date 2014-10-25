@@ -1,9 +1,5 @@
-'exception-reporting':
-  'userId': '582cd6fd-b972-1e23-53f8-a15f9568a166'
 'welcome':
   'showOnStartup': false
-'metrics':
-  'userId': '5cc24f1097273bdf6143f2121a05e2e69aec86f6'
 'editor':
   'invisibles': {}
   'fontSize': 14
@@ -12,7 +8,7 @@
     'seti-ui'
     'seti-syntax'
   ]
-  'projectHome': '/Users/tistone13/workspace'
+  'projectHome': '~/workspace'
   'ignoredNames': [
     '.git'
     'target'
